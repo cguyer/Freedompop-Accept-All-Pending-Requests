@@ -7,3 +7,9 @@ To Import into Tampermonkey:
   - Go to Utilities tab
   - Click choose file under the Zip File header
   - Confirm and the script will be imported
+  - 
+
+After you have the script installed and enabled
+  - Visit http://www.freedompop.com/earnfree_friends.htm
+  - Click Invite Requests
+  - Script should go to town, page will refresh ever couple seconds, etc
